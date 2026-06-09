@@ -9,7 +9,7 @@ Python internship projects completed during my internship at Sysslan IT Solution
 * Structured Programming
 
    ## Internship tasks
-### task 1 – Basic Logic & Structured Thinking
+### LEVEL 1 – Basic Logic & Structured Thinking
 * Display a 3×3 number grid
 * Search a number in the grid
 * Calculate row-wise sums
