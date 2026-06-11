@@ -1,32 +1,58 @@
-Python internship projects completed during my internship at Sysslan IT Solutions, covering logical thinking, problem-solving, string manipulation, loops, conditions, data structures, and Python fundamentals.
+# Sysslan Python Internship
 
-🔹 Skills Covered
-• Python Programming
-• Loops and Conditional Statements
-• Data Structures
-• String Manipulation
-• Problem Solving
-• Logical Thinking
-• Structured Programming
-• Random Module Usage
+Python internship projects completed during my internship at Sysslan IT Solutions. This repository contains tasks and projects focused on Python fundamentals, logical thinking, problem-solving, file handling, and automation.
 
-🔹 Internship Tasks
+## Skills Covered
 
-📌 LEVEL 1 – Basic Logic & Structured Thinking
-• Display a 3×3 number grid
-• Search a number in the grid
-• Calculate row-wise sums
-• Verify uniqueness of grid elements
+* Python Programming
+* Loops and Conditional Statements
+* Data Structures
+* String Manipulation
+* File Handling
+* Data Persistence
+* Problem Solving
+* Logical Thinking
+* Structured Programming
+* Random Module Usage
+* Logging Basics
 
-📌 LEVEL 2 – Core Python Programs
-• Validate an email address using basic rules
-• Generate a random password with letters and numbers
-• Analyze text to count total characters and words
-• Generate the Fibonacci sequence up to a given number of terms
+## Internship Tasks
+
+### Level 1 – Basic Logic & Structured Thinking
+
+* Display a 3×3 number grid
+* Search a number in the grid
+* Calculate row-wise sums
+* Verify uniqueness of grid elements
+
+### Level 2 – Core Python Programs
+
+* Validate an email address using basic rules
+* Generate a random password with letters and numbers
+* Analyze text to count total characters and words
+* Generate the Fibonacci sequence up to a given number of terms
+
+### Level 3 – File Handling & Simple Automation
+
+* Create a simple record management system using lists or dictionaries
+* Save and retrieve records using file-based storage
+* Read and display file content line by line safely
+* Create a log file system with date and time entries
+
+## Technologies Used
+
+* Python 3
+* File Handling
+* Dictionaries and Lists
+* Random Module
+* Datetime Module
+
+## Author
+
+**Priyansu Kumar**
+
+## Internship
+
+Completed as part of the Python Internship Program at **Sysslan IT Solutions**.
 
 More tasks and projects will be added as the internship progresses.
-
-👨‍💻 Author
-Priyansu Kumar
-
-#SysslanITSolutions #Sysslan #SysslanProjects #Python #Programming #Internship #PythonDeveloper #Coding #SoftwareDevelopment #Learning #ProblemSolving
