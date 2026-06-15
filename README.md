@@ -2,24 +2,6 @@
 
 Python internship projects completed during my internship at Sysslan IT Solutions. This repository contains tasks and projects focused on Python fundamentals, logical thinking, problem-solving, file handling, automation, and data analysis.
 
-## Skills Covered
-
-* Python Programming
-* Loops and Conditional Statements
-* Data Structures
-* String Manipulation
-* File Handling
-* Data Persistence
-* Problem Solving
-* Logical Thinking
-* Structured Programming
-* Random Module Usage
-* Logging Basics
-* Exception Handling
-* File Organization Automation
-* Data Analysis
-* Menu-Driven Programming
-
 ## Internship Tasks
 
 ### Level 1 – Basic Logic & Structured Thinking
@@ -53,29 +35,27 @@ Python internship projects completed during my internship at Sysslan IT Solution
 * Implement exception handling for file operations
 * Work with OS and Shutil modules for file and folder management
 
-## Technologies Used
+### Level 5 – Intro to Real-World Python Projects
 
-* Python 3
-* File Handling
-* Dictionaries and Lists
-* Random Module
-* Datetime Module
-* OS Module
-* Shutil Module
-* Exception Handling
+This level introduces practical Python use cases commonly seen in real-world applications and automation projects.
 
-## Learning Outcomes
+#### Tasks
 
-Through this internship, I gained practical experience in:
+* Perform basic web scraping using BeautifulSoup
+* Read and display CSV data in a readable format
+* Create an automated backup script for folders
+* Develop a mini personal utility tool combining logic and file handling
 
-* Writing clean and structured Python programs
-* Solving real-world problems using Python
-* Working with files and data persistence
-* Implementing automation tasks
-* Managing and organizing files programmatically
-* Handling exceptions and errors efficiently
-* Developing menu-driven applications
-* Performing basic data analysis
+#### Skills Gained
+
+* Web Scraping Basics
+* CSV File Handling
+* Data Extraction Techniques
+* Automation Script Development
+* File and Folder Management
+* Practical Python Applications
+* Mini Project Development
+* Problem Solving in Real-World Scenarios
 
 ## Author
 
